@@ -1,0 +1,12 @@
+.idea
+*.pth
+*.tar
+*.jpg
+*.png
+*.gif
+*.npy
+*.svg
+*.pdf
+*.log
+*.txt
+*.csv
